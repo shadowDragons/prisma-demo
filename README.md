@@ -1,1 +1,1 @@
-### prisma+nextjs's demo
+### prisma + Next.js's demo
